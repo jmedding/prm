@@ -2,7 +2,7 @@
 /tmp/**/*
 /log/*.pid
 /log/call_*
-/db/schema.rb
+schema.rb
 /db/seed/test/*
 /db/seed/prdouction/*
 /db/seed/development/*
